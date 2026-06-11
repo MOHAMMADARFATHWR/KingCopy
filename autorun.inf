@@ -1,0 +1,5 @@
+[AutoRun]
+open=Start.vbs
+action=Run Kingcode
+label=Kingcode
+icon=kingcode.exe
